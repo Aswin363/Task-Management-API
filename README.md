@@ -220,7 +220,7 @@ DATABASE_URL=sqlite:///task.db
 
 ### Step 4: Run the Application
 
-python run.py
+python app.py
 
 ### Step 5: Access API Documentation
 
